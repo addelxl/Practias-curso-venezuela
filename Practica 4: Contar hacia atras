@@ -1,0 +1,10 @@
+var miArreglo = [];
+
+for (var i=20; i>0; i-=2){
+  miArreglo.push(i);
+}
+console.log(miArreglo);
+
+
+
+//Practica 3: numeros pares REALIZAR
