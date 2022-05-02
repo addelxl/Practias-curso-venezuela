@@ -1,0 +1,5 @@
+var mySkills = ["JavaScript", "html", "css", "WordPress", "Bootstrap"];
+
+for (var i=0; i < mySkills.length; i++) {
+  console.log(mySkills[i].toUpperCase());
+}
