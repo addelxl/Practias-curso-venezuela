@@ -1,0 +1,17 @@
+Practica 1, sintaxis
+var i = 0;
+while (i<4) {
+  console.log("hola mundo");
+  i++;
+}
+
+//Practica 2
+var miArreglo = [];
+var i = 0;
+
+while (i <= 9) {
+  miArreglo.push(i);
+  i++;
+}
+
+console.log(miArreglo);
